@@ -22,3 +22,4 @@ admixer.net, 4ca083cd-412f-49fe-b832-5b66ee490d9a, RESELLER
 google.com, pub-9645977825280977, RESELLER
 telaria.com, rwd19-2656943, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2656943, RESELLER, 1a4e959a1b50034a
+facebook.com, 638509637960636, RESELLER, c3e20eee3f780d68
